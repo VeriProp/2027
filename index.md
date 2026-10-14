@@ -1,6 +1,4 @@
-
-## Key information
-{: .no_toc}
+**Key information:**
 
 - **When:** Tuesday, July 20, 2027 (the day before CAV)
 - **Where:** Amsterdam, the Netherlands; co-located with [CAV 2027](https://conferences.i-cav.org/2027/)
@@ -11,9 +9,13 @@
 - **Proceedings:** No formal proceedings; previously published work is welcome
 
 ## Contents
-{: .no_toc}
 
-{:toc}
+- [About](#about)
+- [Call for Presentations](#call-for-presentations)
+  - [Submission](#submission)
+- [Attending](#attending)
+- [Organization](#organization)
+- [Previous Editions](#previous-editions)
 
 
 ## About
